@@ -1,0 +1,38 @@
+{
+    "masterData": {
+        "navigation": {
+            "services": [
+                {
+                    "name": "menu_Flights",
+                    "offerings": [
+                        "FLIGHTS",
+                        "HOLIDAYS",
+                        "RAILS",
+                        "CABS",
+                        "BANK_OFFERS"
+                    ]
+                },
+                {
+                    "name": "menu_Hotels",
+                    "offerings": [
+                        "ALL",
+                        "HOLIDAYS",
+                        "RAILS",
+                        "CABS",
+                        "BANK_OFFERS"
+                    ]
+                },
+                {
+                    "name": "menu_Homestays",
+                    "offerings": [
+                        "ALL",
+                        "FLIGHTS",
+                        "RAILS",
+                        "CABS",
+                        "BANK_OFFERS"
+                    ]
+                }
+            ]
+        }
+    }
+}
